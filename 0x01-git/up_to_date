@@ -1,1 +1,1 @@
-git clone,touch, git add, git commit -m, git push
+ git push, git pull, git commit -m, git add, git clone, touch
